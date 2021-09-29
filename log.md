@@ -15,3 +15,11 @@
 **Thoughts:** I realized I haven't been using much of semantic elements in HTML. Instead, I'm using tons of div elements on my projects. I decided to add practice and include this in my process.
 
 **Link to work:** N/A
+
+### Day 2: September 30, 2021
+
+**Today's Progress**: Started Basic CSS section of the Responsive Web Design Course.
+
+**Thoughts:** 
+
+**Link to work:** N/A
