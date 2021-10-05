@@ -23,3 +23,11 @@
 **Thoughts:** 
 
 **Link to work:** N/A
+
+### Day 3: October 5, 2021
+
+**Today's Progress**: Halfway through the Basic CSS section of the Responsive Web Design Course.
+
+**Thoughts:** 
+
+**Link to work:** N/A
