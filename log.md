@@ -31,3 +31,11 @@
 **Thoughts:** 
 
 **Link to work:** N/A
+
+### Day 4: October 10, 2021
+
+**Today's Progress**: Today's Progress: Explored @revealjs framework
+ 
+**Thoughts:**  Surprised how easy it is to set up and get going. A very useful framework for online presentations.
+
+**Link to work:** N/A
