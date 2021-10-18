@@ -39,3 +39,11 @@
 **Thoughts:**  Surprised how easy it is to set up and get going. A very useful framework for online presentations.
 
 **Link to work:** N/A
+
+### Day 5: October 19, 2021
+
+**Today's Progress**: Finished the Basic CSS section of the Responsive Web Design Course.
+ 
+**Thoughts:**  The end part was fun. Got interested in CSS art!
+
+**Link to work:** N/A
