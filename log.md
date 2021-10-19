@@ -52,6 +52,6 @@
 
 **Today's Progress**: Almost done with the Applied Visual Design section of the Responsive Web Design Course.
  
-**Thoughts:**  In my experience, CSS property Transform is one of the least i've used. I'll dig more into it soon!
+**Thoughts:**  In my experience, CSS property Transform is one of the least i've used. I'll dig more about it soon!
 
 **Link to work:** N/A
