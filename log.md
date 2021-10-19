@@ -47,3 +47,11 @@
 **Thoughts:**  The end part was fun. Got interested in CSS art!
 
 **Link to work:** N/A
+
+### Day 6: October 20, 2021
+
+**Today's Progress**: Almost done with the Applied Visual Design section of the Responsive Web Design Course.
+ 
+**Thoughts:**  In my experience, CSS property Transform is one of the least i've used. I'll dig more into it soon!
+
+**Link to work:** N/A
