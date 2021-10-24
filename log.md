@@ -55,3 +55,11 @@
 **Thoughts:**  In my experience, CSS property Transform is one of the least i've used. I'll dig more about it soon!
 
 **Link to work:** N/A
+
+### Day 7: October 24, 2021
+
+**Today's Progress**: Finished Applied Visual Design section of the Responsive Web Design Course.
+ 
+**Thoughts:**  
+
+**Link to work:** N/A
