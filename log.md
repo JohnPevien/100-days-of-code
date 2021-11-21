@@ -71,3 +71,13 @@
 **Thoughts:**  
 
 **Link to work:** N/A
+
+### Day 9: November 22, 2021
+
+**Today's Progress**: Finished the Applied Accessibility section of the Responsive Web Design Course.
+ 
+**Thoughts:**  
+
+**Link to work:** N/A
+
+
