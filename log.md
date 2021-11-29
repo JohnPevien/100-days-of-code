@@ -80,4 +80,12 @@
 
 **Link to work:** N/A
 
+### Day 10: November 30, 2021
+
+**Today's Progress**: Finished Responsive Web Design Principles and CSS Flexbox sections of the Responsive Web Design Course.
+ 
+**Thoughts:**  
+
+**Link to work:** N/A
+
 
