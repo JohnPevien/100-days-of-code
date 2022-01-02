@@ -88,4 +88,13 @@
 
 **Link to work:** N/A
 
+### Day 11: January 3, 2022
+
+**Today's Progress**: Took a little detour and took "50 Projects In 50 Days - HTML, CSS & JavaScript" udemy course by @traversymedia and @florinpop1705. 
+My next 50 days' progress will be from it.
+ 
+**Thoughts:**  
+
+**Link to work:** [Expanding Cards](https://jp-udemy-expanding-cards.surge.sh/)
+
 
