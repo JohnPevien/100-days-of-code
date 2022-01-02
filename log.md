@@ -95,6 +95,6 @@ My next 50 days' progress will be from it.
  
 **Thoughts:**  
 
-**Link to work:** [Expanding Cards](https://jp-udemy-expanding-cards.surge.sh/)
+**Link to work:** [Expanding Cards](https://jp-udemy-expanding-cards.surge.sh/ target="_blank)
 
 
