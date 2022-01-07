@@ -95,6 +95,14 @@ My next 50 days' progress will be from it.
  
 **Thoughts:**  
 
-**Link to work:** [Expanding Cards](https://jp-udemy-expanding-cards.surge.sh/ target="_blank)
+**Link to work:** [Expanding Cards](http://jp-udemy-expanding-cards.surge.sh/){target="_blank"}
+
+### Day 12: January 5, 2022
+
+**Today's Progress**: "50 Projects In 50 Days - HTML, CSS & JavaScript" Day 2 created progress steps project
+ 
+**Thoughts:**  
+
+**Link to work:** [Progress Steps](http://jp-udemy-progress-steps.surge.sh/){target="_blank"}
 
 
