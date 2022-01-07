@@ -95,7 +95,7 @@ My next 50 days' progress will be from it.
  
 **Thoughts:**  
 
-**Link to work:** [Expanding Cards](http://jp-udemy-expanding-cards.surge.sh/){target="_blank"}
+**Link to work:** [Expanding Cards](http://jp-udemy-expanding-cards.surge.sh/)
 
 ### Day 12: January 5, 2022
 
@@ -103,6 +103,6 @@ My next 50 days' progress will be from it.
  
 **Thoughts:**  
 
-**Link to work:** [Progress Steps](http://jp-udemy-progress-steps.surge.sh/){target="_blank"}
+**Link to work:** [Progress Steps](http://jp-udemy-progress-steps.surge.sh/)
 
 
