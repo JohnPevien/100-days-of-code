@@ -105,4 +105,11 @@ My next 50 days' progress will be from it.
 
 **Link to work:** [Progress Steps](http://jp-udemy-progress-steps.surge.sh/)
 
+### Day 13: January 20, 2022
+
+**Today's Progress**: "50 Projects In 50 Days - HTML, CSS & JavaScript" Day 3 created rotating nav project
+ 
+**Thoughts:**  
+
+**Link to work:** [Rotating Nav](http://jp-udemy-rotating-navigation.surge.sh/)
 
