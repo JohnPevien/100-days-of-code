@@ -113,3 +113,11 @@ My next 50 days' progress will be from it.
 
 **Link to work:** [Rotating Nav](http://jp-udemy-rotating-navigation.surge.sh/)
 
+### Day 14: January 23, 2022
+
+**Today's Progress**: "50 Projects In 50 Days - HTML, CSS & JavaScript" Day 4 hidden search widget
+ 
+**Thoughts:**  
+
+**Link to work:** [Rotating Nav](http://jp-udemy-rotating-navigation.surge.sh/)
+
