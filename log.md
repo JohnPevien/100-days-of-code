@@ -119,5 +119,5 @@ My next 50 days' progress will be from it.
  
 **Thoughts:**  
 
-**Link to work:** [Rotating Nav](http://jp-udemy-rotating-navigation.surge.sh/)
+**Link to work:** [Hidden Search Widget](https://jp-udemy-hidden-search-widget.surge.sh/)
 
