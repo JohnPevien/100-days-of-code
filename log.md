@@ -121,3 +121,8 @@ My next 50 days' progress will be from it.
 
 **Link to work:** [Hidden Search Widget](https://jp-udemy-hidden-search-widget.surge.sh/)
 
+### Day 15: January 28, 2022
+
+**Today's Progress**: Continued The Web Developer Bootcamp 2022 course. I'm on CSS. I'm juggling between two Udemy courses. One is more on application, and one on theories. I firmly believe in "Learning by doing"
+ 
+
