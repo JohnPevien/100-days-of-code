@@ -124,5 +124,9 @@ My next 50 days' progress will be from it.
 ### Day 15: January 28, 2022
 
 **Today's Progress**: Continued The Web Developer Bootcamp 2022 course. I'm on CSS. I'm juggling between two Udemy courses. One is more on application, and one on theories. I firmly believe in "Learning by doing"
+
+### Day 16: January 31, 2022
+
+**Today's Progress**: Did a few sections on @jonasschmedtman  HTML and CSS course ! 🎉
  
 
