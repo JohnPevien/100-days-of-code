@@ -129,4 +129,7 @@ My next 50 days' progress will be from it.
 
 **Today's Progress**: Did a few sections on @jonasschmedtman  HTML and CSS course ! 🎉
  
+ ### Day 17: February 2, 2022
+
+**Today's Progress**: I got an hour of progress on Udemy "Build Responsive Real-World Websites with HTML and CSS" course.
 
