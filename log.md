@@ -133,3 +133,8 @@ My next 50 days' progress will be from it.
 
 **Today's Progress**: I got an hour of progress on Udemy "Build Responsive Real-World Websites with HTML and CSS" course.
 
+### Day 18: February 4, 2022
+
+**Today's Progress**: More progress for "Build Responsive Real-World Websites with HTML and CSS
+" course on Udemy.
+
