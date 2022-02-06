@@ -138,6 +138,6 @@ My next 50 days' progress will be from it.
 **Today's Progress**: More progress for "Build Responsive Real-World Websites with HTML and CSS
 " course on Udemy.
 
-### Day 19: February 6, 2022
+### Day 19: February 5, 2022
 
 **Today's Progress**: Almost done with section 3 of the "Build Responsive Real-World Websites with HTML and CSS" course by @jonasschmedtman on Udemy.
